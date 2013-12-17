@@ -1,4 +1,7 @@
 NONMEM example models
 =====================
 
-Uses primarily for workshops and to play around with NONMEM features. Dataset are simulated.
+PK models and datasets. Primarily intended for workshops and for playing round with NONMEM features.
+
+- Hands_onA: PK dataset with covariates
+- Hands_onB: PK dataset with covariates
